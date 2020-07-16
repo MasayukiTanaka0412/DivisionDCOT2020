@@ -20,7 +20,7 @@ English Sessions To be announced
   
 10:00 セッション開始 Session Start
   
-15:20 終了 Adjourn
+16:00 終了 Adjourn
   
 **スケジュールの詳細はこちらを参照 To be announced**
   
