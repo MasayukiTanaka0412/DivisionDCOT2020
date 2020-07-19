@@ -72,7 +72,7 @@ ex.) **44-President-Honey Toast**
   
 **Please refer here for how to change your display name**
   
-[名前の変更方法 How to change your display name](3_COT1_DivI_HowtochangeZOOMname.pdf)
+**[名前の変更方法 How to change your display name](3_COT1_DivI_HowtochangeZOOMname.pdf)**
   
 ---
   
