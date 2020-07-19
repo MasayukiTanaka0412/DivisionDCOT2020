@@ -29,7 +29,7 @@ URL
   
 **Please refer below link for the detail**
   
-[00_D76_COT1_Agenda(2020-21).xlsx](00_D76_COT1_Agenda(2020-21).xlsx)
+[00_D76_COT1_Agenda(2020-21).xlsx](https://github.com/MasayukiTanaka0412/DivisionDCOT2020/raw/master/00_D76_COT1_Agenda(2020-21).xlsx)
   
 ---
   
