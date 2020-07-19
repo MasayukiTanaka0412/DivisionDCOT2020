@@ -8,24 +8,46 @@ Held Online via zoom
   
 URL
   
-General Session & 日本語セッション To be announced
-  
-English Sessions To be announced
+- Opening & English Sessions (オープニングと英語セッション)
+    - [https://zoom.us/j/99732678702?pwd=SU1nMWZYM3lYMUlRSWo4QUJNZzdjUT09	
+](https://zoom.us/j/99732678702?pwd=SU1nMWZYM3lYMUlRSWo4QUJNZzdjUT09	
+)
+- 日本語セッション (オープニングは英語セッションのzoomでおこないます) 
+    - [https://zoom.us/j/98811189382?pwd=bFo1MHRJR0Zva3F4UGpabHNVbUxSUT09](https://zoom.us/j/98811189382?pwd=bFo1MHRJR0Zva3F4UGpabHNVbUxSUT09)
   
 ---
   
 ## スケジュール Schedule
   
-9:30 受付開始 Entry Start
+9:30 開場 Door Open
   
 10:00 セッション開始 Session Start
   
 16:00 終了 Adjourn
   
-**スケジュールの詳細はこちらを参照 To be announced**
+**スケジュールの詳細は下記を参照**
   
-**Please refer here for the detail (To be announced)**
+**Please refer below link for the detail**
   
+[00_D76_COT1_Agenda(2020-21).xlsx](00_D76_COT1_Agenda(2020-21).xlsx)
+  
+---
+  
+## セッション内容
+  
+- Session 1
+    - D76 Growth Strategy / D76成長戦略・重点施策
+    - Division D Growth Strategy / Div. D成長戦略・重点施策
+- Session 2
+    - Quality Clubを作る 
+    - Creating Club Quality
+- Session 3
+    - Club Officer Breakout
+    - クラブ役員の役割についての討議
+- Session 4
+    - Leading the Club to Success （Club Success Plan）
+    - クラブを"成功"に導く　（Club Success Planの作成）
+
 ---
   
 ## お願い Notes
