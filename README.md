@@ -68,9 +68,11 @@ Please change your display name as below to make it smooth.
   
 ex.) **44-President-Honey Toast**
   
-名前の変更方法はこちらを参照 (To be Announced)
+**名前の変更方法はこちらを参照**
   
-Please refer here for how to change your display name (To be Announced)
+**Please refer here for how to change your display name**
+  
+[名前の変更方法 How to change your display name](3_COT1_DivI_HowtochangeZOOMname.pdf)
   
 ---
   
