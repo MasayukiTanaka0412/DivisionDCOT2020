@@ -1,5 +1,8 @@
 # Division D 役員研修会 Division D Club Officers Training
   
+## 日時
+  
+2020/8/1 9:00 - 16:00
 ## 会場 Venue
   
 Zoomでのオンラインミーティングとなります。
