@@ -1,8 +1,9 @@
 # Division D 役員研修会 Division D Club Officers Training
   
-## 日時
+## 日時 Date 
   
 2020/8/1 9:00 - 16:00
+  
 ## 会場 Venue
   
 Zoomでのオンラインミーティングとなります。
@@ -36,7 +37,7 @@ URL
   
 ---
   
-## セッション内容
+## セッション内容 Contents
   
 - Session 1
     - D76 Growth Strategy / D76成長戦略・重点施策
