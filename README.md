@@ -101,6 +101,12 @@ The purpose is to improve following COT sessions, and distributed only among Dis
 Please answer a survey after the training.
   
 By answering the survey, we will check your attendance.
+
+アンケートの回答はこちら
+  
+Survey URL is here
+  
+**[アンケート/Survey https://forms.gle/P6gcQM5qyXDaQMqA8](https://forms.gle/P6gcQM5qyXDaQMqA8)**
   
 ---
   
