@@ -80,6 +80,16 @@ ex.) **44-President-Taro Tanaka**
   
 ---
   
+## 事前配布資料 Hand-outs
+  
+事前配布資料はこちらからダウンロードしてください
+  
+Please download han-outs from here
+  
+**[事前配布資料 Handouts](https://github.com/MasayukiTanaka0412/DivisionDCOT2020/raw/master/%E4%BA%8B%E5%89%8D%E9%80%81%E4%BB%98%E8%B3%87%E6%96%99/%E4%BA%8B%E5%89%8D%E9%85%8D%E5%B8%83%E7%89%A9Leading%20the%20Club%20To%20Success%2CSeiko%20Matsumoto_v3.pptx)**
+  
+---
+  
 ## セッションの録画 Session Recording
   
 セッションは、ホストによって録画されます。
