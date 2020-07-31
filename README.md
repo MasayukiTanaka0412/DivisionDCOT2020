@@ -19,6 +19,15 @@ URL
 - 日本語セッション (オープニングは英語セッションのzoomでおこないます) 
     - [https://zoom.us/j/98811189382?pwd=bFo1MHRJR0Zva3F4UGpabHNVbUxSUT09](https://zoom.us/j/98811189382?pwd=bFo1MHRJR0Zva3F4UGpabHNVbUxSUT09)
   
+**重要**
+  
+**日本語で参加される方も、11:00までは、Opening & English Sessions (オープニングと英語セッション)にご参加ください。**
+  
+**11:00まではバイリンガルでおこないます**
+  
+[https://zoom.us/j/99732678702?pwd=SU1nMWZYM3lYMUlRSWo4QUJNZzdjUT09	
+](https://zoom.us/j/99732678702?pwd=SU1nMWZYM3lYMUlRSWo4QUJNZzdjUT09
+
 ---
   
 ## スケジュール Schedule
