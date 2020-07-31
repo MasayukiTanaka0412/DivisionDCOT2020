@@ -62,7 +62,7 @@ Session 3 & 4 では、zoomのBreakout Roomを利用して役職ごと、エリ�
   
 **エリア番号-役職-あなたのお名前**
   
-例）**44-会長-トースト ハニー**
+例）**44-会長-田中太郎ー**
   
 During session 3 & 4, we wiil have discussion among same office and same area using Breakout Room zoom feature.
   
@@ -70,7 +70,7 @@ Please change your display name as below to make it smooth.
   
 **Area#-Office-YourName**
   
-ex.) **44-President-Honey Toast**
+ex.) **44-President-Taro Tanaka**
   
 **名前の変更方法はこちらを参照**
   
