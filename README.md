@@ -13,9 +13,7 @@ Held Online via zoom
 URL
   
 - Opening & English Sessions (オープニングと英語セッション)
-    - [https://zoom.us/j/99732678702?pwd=SU1nMWZYM3lYMUlRSWo4QUJNZzdjUT09	
-](https://zoom.us/j/99732678702?pwd=SU1nMWZYM3lYMUlRSWo4QUJNZzdjUT09	
-)
+    - [https://zoom.us/j/99732678702?pwd=SU1nMWZYM3lYMUlRSWo4QUJNZzdjUT09](https://zoom.us/j/99732678702?pwd=SU1nMWZYM3lYMUlRSWo4QUJNZzdjUT09)
 - 日本語セッション (オープニングは英語セッションのzoomでおこないます) 
     - [https://zoom.us/j/98811189382?pwd=bFo1MHRJR0Zva3F4UGpabHNVbUxSUT09](https://zoom.us/j/98811189382?pwd=bFo1MHRJR0Zva3F4UGpabHNVbUxSUT09)
   
@@ -25,8 +23,7 @@ URL
   
 **11:00まではバイリンガルでおこないます**
   
-[https://zoom.us/j/99732678702?pwd=SU1nMWZYM3lYMUlRSWo4QUJNZzdjUT09	
-](https://zoom.us/j/99732678702?pwd=SU1nMWZYM3lYMUlRSWo4QUJNZzdjUT09
+[https://zoom.us/j/99732678702?pwd=SU1nMWZYM3lYMUlRSWo4QUJNZzdjUT09](https://zoom.us/j/99732678702?pwd=SU1nMWZYM3lYMUlRSWo4QUJNZzdjUT09)
 
 ---
   
